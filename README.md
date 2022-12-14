@@ -1,4 +1,4 @@
-#hi mom
+# hi mom
 
 - Are you there, God ? It's me, @adambarrameda 🤗
 - I'm interested in web development for 🌈 a more peaceful and loving world.
