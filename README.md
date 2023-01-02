@@ -2,7 +2,7 @@
 
 - Are you there, God ? It's me, @adambarrameda 🤗
 - Currently learning the very basics from the one and only, Skillcrush bootcamp !! 🎉
-- Also freeCodeCamp and edX CS50. I like to be thorough.
+- Also freeCodeCamp and Frontend Masters. I like to be thorough.
 - You can reach me via email at hello@adambarrameda.com.
 
 <!---
